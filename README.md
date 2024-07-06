@@ -1,4 +1,4 @@
-#Welcome to Dhruv Sharma's Portfolio
+# Welcome to Dhruv Sharma's Portfolio
 
 Dive into my personal creative space on the web: Dhruv Sharma's Portfolio. Crafted with precision and passion, this site is a window into my world of web development, showcasing a portfolio that spans various projects and encapsulates my journey as a developer. Whether you're a potential employer, a fellow developer, or a curious visitor, my portfolio is designed to impress and inspire.
 

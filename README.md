@@ -1,5 +1,7 @@
 # Welcome to Dhruv Sharma's Portfolio
 
+![Project Screenshot](https://github.com/testgithubrittttttt/Portfolio-Website/blob/main/images/Screenshot.png "Project Screenshot")
+
 Dive into my personal creative space on the web: Dhruv Sharma's Portfolio. Crafted with precision and passion, this site is a window into my world of web development, showcasing a portfolio that spans various projects and encapsulates my journey as a developer. Whether you're a potential employer, a fellow developer, or a curious visitor, my portfolio is designed to impress and inspire.
 
 ## 🌟 Features
@@ -19,34 +21,30 @@ Bootstrap - For rapid, responsive design.
 Netlify - Hosting and seamless CI/CD integration for deployments.
 
 ## 📸 Screenshots
-
-The main landing page of my portfolio.
-
+Some of the screenshots of my website look: 
+![Project Screenshot](https://github.com/testgithubrittttttt/Portfolio-Website/blob/main/images/Screenshot2.png "Project Screenshot")
 
 Overview of the projects section showcasing various works.
 
 🚀 Getting Started
 Want to run my portfolio locally or contribute? Here’s how you can do it:
 
-Setup
+Setup: 
 Clone the repository:
-
-bash
-Copy code
 git clone https://github.com/yourusername/yourportfolio.git
-cd yourportfolio
+
 Open locally:
 Open index.html in your browser to view the project.
 
-Making Changes
+## Making Changes
 Feel free to modify or enhance the site. You can change styles in the CSS files or add new functionalities in the JavaScript files.
 
-💡 Contributing
+## 💡 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check issues page. Make sure to follow the contribution guidelines when you submit pull requests.
 
-📜 License
+## 📜 License
 Distributed under the MIT License. See LICENSE for more information.
 
 📬 Contact
-Questions or comments? Please reach out to me directly through the contact form on my site or email me at dhruv@example.com.
+Questions or comments? Please reach out to me directly through the contact form on my site or email me at dhruvsharma4054@gmail.com.
 
